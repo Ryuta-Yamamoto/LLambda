@@ -102,15 +102,3 @@ context_vars = [
 
 llambda = create_llambda(context=context_vars)
 ```
-
-## License
-
-This project is released under the MIT License.
-
-## Contribution
-
-Pull requests and issues are welcome. All contributors are expected to adhere to the Code of Conduct.
-
-## Support and Feedback
-
-If you encounter any problems or have feedback, please let us know through GitHub's issue tracker.

@@ -4,6 +4,7 @@ version = "0.1.0a1"
 description = ""
 authors = ["Ryuta-Yamamoto <43087138+Ryuta-Yamamoto@users.noreply.github.com>"]
 readme = "README.md"
+include = ["llambda"]
 
 [tool.poetry.dependencies]
 python = "^3.9"
